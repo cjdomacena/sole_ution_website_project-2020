@@ -1,0 +1,83 @@
+
+.main
+{
+    background-image: url("../img/bg.jpg");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.cover-container
+{
+    width: 50%;
+    height: 92vh;
+    color: white;
+}
+.cover-heading
+{
+    font-size: 71px;
+}
+
+.lead
+{
+    font-size: 18px;
+}
+
+.navbar a, .navbar-brand a
+{
+    color: white;
+}
+
+.navbar a:hover
+{
+    color:gray;
+}
+
+.btn
+{
+    color: black;
+    background-color: white;
+    font-weight: 600;
+}
+/*-----------------------------------------------------------------*/
+
+.showcase-container
+{
+    height: 100vh;
+    margin-top: 50px;
+}
+
+.showcase-container .first-row
+{
+    height: 50vh;
+}
+
+/*Media Queries*/
+/* Small devices (landscape phones, less than 768px)*/
+@media (max-width: 768px)
+{
+    .cover-container
+    {
+        width: 100%;
+    }
+    .cover-heading
+    {
+        font-size: 49px;
+    }
+    .showcase-container h1
+    {
+        font-size: 25px;
+    }
+    .lead,.showcase-container p
+    {
+        font-size: 16px;
+    }
+    .showcase-container
+    {
+        height: 80vh;
+        margin-top: 50px;
+    }
+
+
+}
+
