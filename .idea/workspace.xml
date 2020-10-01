@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ccc1b71-086f-41fb-ad17-c38461ce051d" name="Default Changelist" comment="Task: Initial Commit" />
+    <list default="true" id="3ccc1b71-086f-41fb-ad17-c38461ce051d" name="Default Changelist" comment="Task: added gitginore">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601518597853</updated>
       <workItem from="1601518601546" duration="5087000" />
-      <workItem from="1601523864688" duration="460000" />
+      <workItem from="1601523864688" duration="518000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Added Readme file&#10;Task: Added gitignore">
       <created>1601523937234</created>
@@ -97,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601524305576</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task: added gitginore">
+      <created>1601524340581</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601524340581</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +128,8 @@
     <MESSAGE value="Bug: Moved files inside docs folder." />
     <MESSAGE value="Bug: moved index.html file outside of docs." />
     <MESSAGE value="Task: Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Initial Commit" />
+    <MESSAGE value="Task: added gitginore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: added gitginore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1083" y="416" key="Github.ShareDialog" timestamp="1601524206210">
@@ -130,10 +140,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1220" y="140" key="Github.UntrackedFilesDialog/0.0.1920.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601523726445" />
-    <state x="-1369" y="249" key="Vcs.Push.Dialog.v2" timestamp="1601524310476">
+    <state x="-1369" y="249" key="Vcs.Push.Dialog.v2" timestamp="1601524363617">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1369" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601524310476" />
+    <state x="-1369" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601524363617" />
     <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601522620708">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
