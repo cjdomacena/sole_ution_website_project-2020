@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ccc1b71-086f-41fb-ad17-c38461ce051d" name="Default Changelist" comment="Bug: moved index.html file outside of docs.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3ccc1b71-086f-41fb-ad17-c38461ce051d" name="Default Changelist" comment="Task: Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -68,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601518597853</updated>
       <workItem from="1601518601546" duration="5087000" />
-      <workItem from="1601523864688" duration="361000" />
+      <workItem from="1601523864688" duration="460000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Added Readme file&#10;Task: Added gitignore">
       <created>1601523937234</created>
@@ -84,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601524104303</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task: Initial Commit">
+      <created>1601524233046</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601524233046</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task: Initial Commit">
+      <created>1601524305576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601524305576</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +118,8 @@
     <MESSAGE value="Feature: Added Readme file&#10;Task: Added gitignore" />
     <MESSAGE value="Bug: Moved files inside docs folder." />
     <MESSAGE value="Bug: moved index.html file outside of docs." />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug: moved index.html file outside of docs." />
+    <MESSAGE value="Task: Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1083" y="416" key="Github.ShareDialog" timestamp="1601524206210">
@@ -116,10 +130,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1220" y="140" key="Github.UntrackedFilesDialog/0.0.1920.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601523726445" />
-    <state x="-1369" y="249" key="Vcs.Push.Dialog.v2" timestamp="1601524109888">
+    <state x="-1369" y="249" key="Vcs.Push.Dialog.v2" timestamp="1601524310476">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1369" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601524109888" />
+    <state x="-1369" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601524310476" />
     <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601522620708">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
